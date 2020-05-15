@@ -10,7 +10,10 @@ namespace TestExam.Service.CustomException
         public CustomExceptionResponseDto CustomContent { get; set; }
 
         private int _errorCode;
-
+        public CustomHttpException(int errorCode, string message) : base(message)
+        {
+            _errorCode = errorCode;
+        }
 
         /// <summary>
         /// Initializes a new instance of the Haaloom.KashbackService.Service.CustomHttpException class and creates

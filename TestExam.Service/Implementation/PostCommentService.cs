@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TestExam.Domain.Entities;
+using TestExam.Service.CustomException;
 using TextExam.Repository;
 
 namespace TestExam.Service.Implementation
@@ -17,7 +19,12 @@ namespace TestExam.Service.Implementation
 
         public async Task<List<PostModel>> Test()
         {
-            return await _postCommentRepository.Test();
+            var responseData = await _postCommentRepository.Test();
+
+            if(!responseData.Any())
+                throw new CustomHttpException(204, "No data Found");
+
+            return responseData;
         }
     }
 }

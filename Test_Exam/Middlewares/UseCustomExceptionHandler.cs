@@ -12,11 +12,11 @@ using TestExam.Service.CustomException;
 namespace Test_Exam.Middlewares
 {
     // You may need to install the Microsoft.AspNetCore.Http.Abstractions package into your project
-    public class ExceptionMiddleware
+    public class UseCustomExceptionHandler
     {
         private readonly RequestDelegate _next;
 
-        public ExceptionMiddleware(RequestDelegate next)
+        public UseCustomExceptionHandler(RequestDelegate next)
         {
             _next = next;
         }
