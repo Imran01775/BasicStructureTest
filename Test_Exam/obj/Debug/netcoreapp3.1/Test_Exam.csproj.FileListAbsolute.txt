@@ -129,4 +129,9 @@ I:\BS23\New\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\
 I:\BS23\New\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 I:\BS23\New\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 I:\BS23\New\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\BS23\New\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+I:\BS23\New\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+I:\BS23\New\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\BS23\New\Test_Exam\Test_Exam\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\BS23\New\Test_Exam\Test_Exam\obj\Debug\netcoreapp3.1\Test_Exam.MvcApplicationPartsAssemblyInfo.cs
 I:\BS23\New\Test_Exam\Test_Exam\obj\Debug\netcoreapp3.1\Test_Exam.MvcApplicationPartsAssemblyInfo.cache

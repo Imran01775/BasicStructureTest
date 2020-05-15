@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.OpenApi.Models;
 using TestExam.DataContext;
 using TestExam.Service;
 using TestExam.Service.Implementation;
@@ -34,6 +35,10 @@ namespace Test_Exam
             services.AddDbContext<SqlServerContext>(options => options.UseSqlServer(Configuration["DataConnection:PostCommentContext"]));
             services.AddTransient<IPostCommentService, PostCommentService>();
             services.AddTransient<IPostCommentRepository, PostCommentRepository>();
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Test Exam", Version = "v1" });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,11 +48,17 @@ namespace Test_Exam
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseSwagger();
 
             app.UseRouting();
 
             app.UseAuthorization();
-
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Test Exam");
+                c.RoutePrefix = string.Empty;
+            });
+       
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

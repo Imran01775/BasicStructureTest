@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExam.Service", "TestExa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextExam.Repository", "TextExam.Repository\TextExam.Repository.csproj", "{FB7AE5EE-EFA0-4B86-8C57-7A11A2271489}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExam.Domain", "TestExam.Domain\TestExam.Domain.csproj", "{17D09297-3049-401D-AEE0-620E81EAAEAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExam.Domain", "TestExam.Domain\TestExam.Domain.csproj", "{17D09297-3049-401D-AEE0-620E81EAAEAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExam.DataContext", "TestExam.DataContext\TestExam.DataContext.csproj", "{9FA58475-47E8-4791-BAEE-BB20A3D78BC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestExam.DataContext", "TestExam.DataContext\TestExam.DataContext.csproj", "{9FA58475-47E8-4791-BAEE-BB20A3D78BC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
