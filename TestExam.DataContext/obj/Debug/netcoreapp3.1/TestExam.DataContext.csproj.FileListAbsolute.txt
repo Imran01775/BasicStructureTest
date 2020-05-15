@@ -1,0 +1,11 @@
+I:\BS23\New\Test_Exam\TestExam.DataContext\bin\Debug\netcoreapp3.1\TestExam.DataContext.deps.json
+I:\BS23\New\Test_Exam\TestExam.DataContext\bin\Debug\netcoreapp3.1\TestExam.DataContext.dll
+I:\BS23\New\Test_Exam\TestExam.DataContext\bin\Debug\netcoreapp3.1\TestExam.DataContext.pdb
+I:\BS23\New\Test_Exam\TestExam.DataContext\obj\Debug\netcoreapp3.1\TestExam.DataContext.csprojAssemblyReference.cache
+I:\BS23\New\Test_Exam\TestExam.DataContext\obj\Debug\netcoreapp3.1\TestExam.DataContext.AssemblyInfoInputs.cache
+I:\BS23\New\Test_Exam\TestExam.DataContext\obj\Debug\netcoreapp3.1\TestExam.DataContext.AssemblyInfo.cs
+I:\BS23\New\Test_Exam\TestExam.DataContext\obj\Debug\netcoreapp3.1\TestExam.DataContext.dll
+I:\BS23\New\Test_Exam\TestExam.DataContext\obj\Debug\netcoreapp3.1\TestExam.DataContext.pdb
+I:\BS23\New\Test_Exam\TestExam.DataContext\bin\Debug\netcoreapp3.1\TestExam.Domain.dll
+I:\BS23\New\Test_Exam\TestExam.DataContext\bin\Debug\netcoreapp3.1\TestExam.Domain.pdb
+I:\BS23\New\Test_Exam\TestExam.DataContext\obj\Debug\netcoreapp3.1\TestExam.DataContext.csproj.CopyComplete

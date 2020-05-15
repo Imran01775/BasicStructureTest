@@ -1,0 +1,13 @@
+I:\BS23\New\Test_Exam\TextExam.Repository\bin\Debug\netcoreapp3.1\TextExam.Repository.deps.json
+I:\BS23\New\Test_Exam\TextExam.Repository\bin\Debug\netcoreapp3.1\TextExam.Repository.dll
+I:\BS23\New\Test_Exam\TextExam.Repository\bin\Debug\netcoreapp3.1\TextExam.Repository.pdb
+I:\BS23\New\Test_Exam\TextExam.Repository\obj\Debug\netcoreapp3.1\TextExam.Repository.csprojAssemblyReference.cache
+I:\BS23\New\Test_Exam\TextExam.Repository\obj\Debug\netcoreapp3.1\TextExam.Repository.AssemblyInfoInputs.cache
+I:\BS23\New\Test_Exam\TextExam.Repository\obj\Debug\netcoreapp3.1\TextExam.Repository.AssemblyInfo.cs
+I:\BS23\New\Test_Exam\TextExam.Repository\obj\Debug\netcoreapp3.1\TextExam.Repository.dll
+I:\BS23\New\Test_Exam\TextExam.Repository\obj\Debug\netcoreapp3.1\TextExam.Repository.pdb
+I:\BS23\New\Test_Exam\TextExam.Repository\bin\Debug\netcoreapp3.1\TestExam.DataContext.dll
+I:\BS23\New\Test_Exam\TextExam.Repository\bin\Debug\netcoreapp3.1\TestExam.Domain.dll
+I:\BS23\New\Test_Exam\TextExam.Repository\bin\Debug\netcoreapp3.1\TestExam.DataContext.pdb
+I:\BS23\New\Test_Exam\TextExam.Repository\bin\Debug\netcoreapp3.1\TestExam.Domain.pdb
+I:\BS23\New\Test_Exam\TextExam.Repository\obj\Debug\netcoreapp3.1\TextExam.Repository.csproj.CopyComplete

@@ -1,0 +1,8 @@
+I:\BS23\New\Test_Exam\TestExam.Domain\bin\Debug\netcoreapp3.1\TestExam.Domain.deps.json
+I:\BS23\New\Test_Exam\TestExam.Domain\bin\Debug\netcoreapp3.1\TestExam.Domain.dll
+I:\BS23\New\Test_Exam\TestExam.Domain\bin\Debug\netcoreapp3.1\TestExam.Domain.pdb
+I:\BS23\New\Test_Exam\TestExam.Domain\obj\Debug\netcoreapp3.1\TestExam.Domain.csprojAssemblyReference.cache
+I:\BS23\New\Test_Exam\TestExam.Domain\obj\Debug\netcoreapp3.1\TestExam.Domain.AssemblyInfoInputs.cache
+I:\BS23\New\Test_Exam\TestExam.Domain\obj\Debug\netcoreapp3.1\TestExam.Domain.AssemblyInfo.cs
+I:\BS23\New\Test_Exam\TestExam.Domain\obj\Debug\netcoreapp3.1\TestExam.Domain.dll
+I:\BS23\New\Test_Exam\TestExam.Domain\obj\Debug\netcoreapp3.1\TestExam.Domain.pdb

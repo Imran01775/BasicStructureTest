@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\BS23\\New\\Test_Exam\\TestExam.Service\\TestExam.Service.csproj": {}
+  },
+  "projects": {
+    "I:\\BS23\\New\\Test_Exam\\TestExam.DataContext\\TestExam.DataContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\BS23\\New\\Test_Exam\\TestExam.DataContext\\TestExam.DataContext.csproj",
+        "projectName": "TestExam.DataContext",
+        "projectPath": "I:\\BS23\\New\\Test_Exam\\TestExam.DataContext\\TestExam.DataContext.csproj",
+        "packagesPath": "C:\\Users\\Imran\\.nuget\\packages\\",
+        "outputPath": "I:\\BS23\\New\\Test_Exam\\TestExam.DataContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "I:\\BS23\\New\\Test_Exam\\TestExam.Domain\\TestExam.Domain.csproj": {
+                "projectPath": "I:\\BS23\\New\\Test_Exam\\TestExam.Domain\\TestExam.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "I:\\BS23\\New\\Test_Exam\\TestExam.Domain\\TestExam.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\BS23\\New\\Test_Exam\\TestExam.Domain\\TestExam.Domain.csproj",
+        "projectName": "TestExam.Domain",
+        "projectPath": "I:\\BS23\\New\\Test_Exam\\TestExam.Domain\\TestExam.Domain.csproj",
+        "packagesPath": "C:\\Users\\Imran\\.nuget\\packages\\",
+        "outputPath": "I:\\BS23\\New\\Test_Exam\\TestExam.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "I:\\BS23\\New\\Test_Exam\\TestExam.Service\\TestExam.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\BS23\\New\\Test_Exam\\TestExam.Service\\TestExam.Service.csproj",
+        "projectName": "TestExam.Service",
+        "projectPath": "I:\\BS23\\New\\Test_Exam\\TestExam.Service\\TestExam.Service.csproj",
+        "packagesPath": "C:\\Users\\Imran\\.nuget\\packages\\",
+        "outputPath": "I:\\BS23\\New\\Test_Exam\\TestExam.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "I:\\BS23\\New\\Test_Exam\\TextExam.Repository\\TextExam.Repository.csproj": {
+                "projectPath": "I:\\BS23\\New\\Test_Exam\\TextExam.Repository\\TextExam.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "I:\\BS23\\New\\Test_Exam\\TextExam.Repository\\TextExam.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\BS23\\New\\Test_Exam\\TextExam.Repository\\TextExam.Repository.csproj",
+        "projectName": "TextExam.Repository",
+        "projectPath": "I:\\BS23\\New\\Test_Exam\\TextExam.Repository\\TextExam.Repository.csproj",
+        "packagesPath": "C:\\Users\\Imran\\.nuget\\packages\\",
+        "outputPath": "I:\\BS23\\New\\Test_Exam\\TextExam.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Imran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "I:\\BS23\\New\\Test_Exam\\TestExam.DataContext\\TestExam.DataContext.csproj": {
+                "projectPath": "I:\\BS23\\New\\Test_Exam\\TestExam.DataContext\\TestExam.DataContext.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
